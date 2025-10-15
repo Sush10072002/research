@@ -1,0 +1,7 @@
+clock tb_top.clk
+/tb_top/DUT/IMEM/addr
+/tb_top/DUT/obs_pc
+/tb_top/DUT/pc
+/tb_top/DUT/pc_next
+/tb_top/pc
+/tb_top/t
